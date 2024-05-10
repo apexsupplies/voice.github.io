@@ -1,0 +1,7 @@
+<Response>
+<Say voice="woman">Welcome to Apex HVAC and Electrical Supplies. You have reached to Store's Help Desk</Say>
+<Pause length="1"/>
+<Say voice="woman">For Any quesries and Questions Please call at 4167364004 or Email at info@apexsupplies.ca</Say>
+</Response>
+
+<!-- https://demo.twilio.com/welcome/voice/ -->
